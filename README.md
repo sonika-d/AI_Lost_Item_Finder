@@ -82,6 +82,4 @@ Passionate about Data Science, AI, and building solutions for public safety.
 
 ---
 
-## 🔗 Demo (Optional)
-- GitHub Repo: [https://github.com/sonikadvlr/AI_Lost_Item_Finder](https://github.com/sonikadvlr/AI_Lost_Item_Finder)
-- Demo Video: [https://youtu.be/example](https://youtu.be/example)
+
