@@ -1,4 +1,4 @@
-![Project Banner](banner.png)
+![Project Banner](banner.png.png)
 
 # 🧠 AI-Based Lost Item Finder in Public Places using CCTV Feeds
 
